@@ -1,0 +1,47 @@
+
+#secondArea{
+  height: 120px;
+  width: 95px;
+  background-color: white;
+  color: rgb(0,60,150);
+  text-align: right;
+  font-size: 60px;
+  font-family: 'Exo', sans-serif;
+  border-right: none;
+  border-left: none;
+}
+#tenthSecond{
+  height: 120px;
+  width: 80px;
+  background-color: white;
+  color: rgb(0,60,150);
+  text-align: left;
+  font-size: 60px;
+  font-family: 'Exo', sans-serif;
+  border-left: none;
+}
+#minuteArea{
+  height: 120px;
+  width: 140px;
+  background-color: white;
+  color: rgb(0,60,150);
+  text-align: right;
+  font-size: 60px;
+  font-family: 'Exo', sans-serif;
+  border-right: none;
+}
+#button{
+  width: 150px;
+  height: 120px;
+  padding-top: 7px;
+  margin-top: -35px;
+  color: white;
+  background-color: rgb(0,60,150);
+  border: 1px solid white;
+  font-family: 'Exo', sans-serif;
+}
+.watch{
+  padding: 50px;
+  align-items: center;
+  text-align:center;
+}
